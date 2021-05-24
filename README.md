@@ -2,10 +2,10 @@
 
 > Roteiro para se tornar um desenvolvedor ASP.NET Core em 2021:
 
-    Abaixo, você pode encontrar um gráfico que demonstra os caminhos que     você pode seguir e as bibliotecas que gostaria de aprender para se     tornar um desenvolvedor ASP.NET Core. Fiz este gráfico como uma dica     para todos que me perguntam: "O que devo aprender a seguir como     desenvolvedor ASP.NET Core?"
-    Isenção de responsabilidade
+Abaixo, você pode encontrar um gráfico que demonstra os caminhosque     você pode seguir e as bibliotecas que gostaria de aprenderpara se     tornar um desenvolvedor ASP.NET Core. Fiz este gráficocomo uma dica     para todos que me perguntam: "O que devo aprendera seguir como     desenvolvedor ASP.NET Core?"
+Isenção de responsabilidade
 
-    O objetivo deste roteiro é dar uma ideia sobre a paisagem. O roteiro irá guiá-lo se você estiver confuso sobre o que aprender a seguir, em vez de encorajá-lo a escolher o que está na moda e na moda. Você deve compreender melhor por que uma ferramenta seria mais adequada para alguns casos do que a outra e lembre-se de que moderno e moderno nem sempre significa mais adequado para o trabalho
+O objetivo deste roteiro é dar uma ideia sobre a paisagem. Oroteiro irá guiá-lo se você estiver confuso sobre o que aprender aseguir, em vez de encorajá-lo a escolher o que está na moda e namoda. Você deve compreender melhor por que uma ferramenta seriamais adequada para alguns casos do que a outra e lembre-se de quemoderno e moderno nem sempre significa mais adequado para o trabalho
 
 Dê uma estrela! Estrela
 
