@@ -14,7 +14,7 @@ Se você gosta ou está usando este projeto para aprender ou iniciar sua soluç�
 ![aspnetcore-developer-roadmap-printable](https://user-images.githubusercontent.com/52793184/119379099-6d9bad00-bc95-11eb-85d8-e73394c08dd9.png)
 
 
-Resources
+Recursos
 
 1. Conheça os pré-requisitos
     - [C#](https://www.pluralsight.com/paths/csharp)
